@@ -16,7 +16,6 @@ allprojects {<br/>
 4.  Init MePuzzService in activity<br/>
 MePuzzService.init(<AppID>, context);<br/><br/>
 public class MainActivity extends AppCompatActivity {<br/><br/>
-
 &nbsp;&nbsp;@Override<br/>
 &nbsp;&nbsp;protected void onCreate(Bundle savedInstanceState) {<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;super.onCreate(savedInstanceState);<br/>
