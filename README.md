@@ -13,3 +13,15 @@ allprojects {<br/>
 
 3.  Add dependent<br/>implementation 'com.mepuzz:mobilesdk:1.0.0'
 
+4.  Init MePuzzService in activity<br/>
+MePuzzService.init(<AppID>, this);<br/><br/>
+public class MainActivity extends AppCompatActivity {<br/><br/>
+
+&nbsp;&nbsp;@Override<br/>
+&nbsp;&nbsp;protected void onCreate(Bundle savedInstanceState) {<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;super.onCreate(savedInstanceState);<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;setContentView(R.layout.activity_main);<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;MePuzzService.init("BXQ9JLy4nE", this);<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br/>
+&nbsp;&nbsp;}<br/>
+
