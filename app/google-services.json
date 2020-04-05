@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "99355011105",
+    "firebase_url": "https://testsomething-fd5d9.firebaseio.com",
+    "project_id": "testsomething-fd5d9",
+    "storage_bucket": "testsomething-fd5d9.appspot.com"
+  },
+  "client": [
+     {
+      "client_info": {
+        "mobilesdk_app_id": "1:99355011105:android:531129f2cbb9461d381b60",
+        "android_client_info": {
+          "package_name": "com.mepuzz.de"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99355011105-385jinna4ji4dppdobrji1dn34pobufq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3F2n1oIU26-NNqM3pcUTsl95RRWcivhA"
+        }
+      ]
+
+    }
+  ],
+  "configuration_version": "1"
+}
