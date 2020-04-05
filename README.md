@@ -1,4 +1,4 @@
-MePuzzMobileSDKSample
+# MePuzzMobileSDKSample
 
 1.  Add firebase to your project<br/>https://firebase.google.com/docs/android/setup\#add\_firebase\_to\_your\_app
 
