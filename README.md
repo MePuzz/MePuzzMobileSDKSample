@@ -11,7 +11,7 @@ allprojects {<br/>
 &nbsp;&nbsp;}<br/>
 }<br/>
 
-3.  Add dependent<br/>implementation 'com.mepuzz:mobilesdk:1.0.0'
+3.  Add dependent<br/>implementation 'com.mepuzz:mobilesdk:1.0.3'
 
 4.  Init MePuzzService in activity<br/>
 MePuzzService.init(AppID, context);<br/><br/>
