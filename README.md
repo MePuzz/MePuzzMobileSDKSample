@@ -25,4 +25,4 @@ public class MainActivity extends AppCompatActivity {<br/><br/>
 &nbsp;&nbsp;}<br/>
 
 5. Send event <br/>
-MePuzzService.sendEventToServer("Test Event from Android SDK 123", this);
+MePuzzService.sendEventToServer("Event name", this);
