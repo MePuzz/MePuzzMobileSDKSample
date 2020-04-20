@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         MePuzzService.init("BXQ9JLy4nE", this);
+        MePuzzService.sendEventToServer("Test Event from Android SDK 123", this);
     }
 }
