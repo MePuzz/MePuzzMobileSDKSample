@@ -1,6 +1,6 @@
 # MePuzzMobileSDKSample
 ### 1. Add Firebase to your project
-[Instal firebase to your project](https://firebase.google.com/docs/android/setup\#add\_firebase\_to\_your\_app)
+[Install firebase to your project](https://firebase.google.com/docs/android/setup\#add\_firebase\_to\_your\_app)
 
 ### 2. Add dependency
 Add repository to root build.gradle
